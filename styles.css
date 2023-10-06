@@ -1,8 +1,16 @@
 
 h1 {
    color: red;
+   font-family: "Times New Roman", Times, serif;
 }
 
 h2 {
    color: pink;
+   font-style: italic;
+}
+
+h3 {
+   color: green;
+   font-size: xx-small;
+
 }
